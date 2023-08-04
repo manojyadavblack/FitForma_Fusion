@@ -1,6 +1,6 @@
+Developed by Manoj Yadav.
 # Getting Started with Create React App
 
-Developed by Manoj Yadav
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
